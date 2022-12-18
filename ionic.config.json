@@ -1,0 +1,7 @@
+{
+  "name": "gmap-polyline",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
